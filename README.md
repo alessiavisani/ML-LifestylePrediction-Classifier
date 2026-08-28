@@ -1,4 +1,4 @@
-# Obesity Prediction and Classification Project
+# Lifestyle Prediction and Classification Project
 
 This repository contains the final assessment for the **Machine Learning Basics** course at UniBo (Bioinformatics), focusing on predicting obesity levels through both binary and multi-class machine learning frameworks.
 
