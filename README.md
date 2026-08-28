@@ -7,6 +7,9 @@ The project explores the predictive capacity of lifestyle habits, physical condi
 1. **Binary Classification:** Evaluating whether an individual falls into an 'Obese' category using a comprehensive feature set versus testing whether family history alone is sufficient.
 2. **Multi-Class Classification:** Accurately predicting granular obesity levels (`NObeyesdad`) based on behavioral and physiological attributes using a Random Forest architecture, alongside hyperparameter tuning analysis.
 
+### Pipeline
+> **pipeline**: import data > EDA > visualization > analytical decisions > data preprocessing > modeling > evaluation of the model > final results
+
 ## Key Findings
 * **Binary Classification:** Achieved an exceptional **AUC of 0.97** with a multi-variable feature set. In contrast, a single-feature baseline relying strictly on family history yielded an **AUC of 0.65**, proving that isolated genetic/environmental risk factors are insufficient on their own for robust prediction.
 * **Multi-Class Classification:** The Random Forest model achieved an overall accuracy of **0.83** (macro average: **0.84**). Misclassifications were predominantly isolated to adjacent, overlapping intermediate weight categories rather than structural model failures. Furthermore, hyperparameter tuning revealed that default parameters were already robustly optimized for the dataset.
