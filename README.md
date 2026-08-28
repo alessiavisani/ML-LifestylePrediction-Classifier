@@ -1,6 +1,6 @@
 # Obesity Prediction and Classification Project
 
-This repository contains the final assessment for the **Machine Learning Basics** course at UniTo (Bioinformatics), focusing on predicting obesity levels through both binary and multi-class machine learning frameworks.
+This repository contains the final assessment for the **Machine Learning Basics** course at UniBo (Bioinformatics), focusing on predicting obesity levels through both binary and multi-class machine learning frameworks.
 
 ## Project Overview
 The project explores the predictive capacity of lifestyle habits, physical conditions, and demographic factors on obesity classification. It is broken down into two main objectives:
