@@ -2,6 +2,8 @@
 
 This repository contains the final assessment for the **Machine Learning Basics** course at UniBo (Bioinformatics), focusing on predicting obesity levels through both binary and multi-class machine learning frameworks.
 
+dataset was retrieved from: Estimation of Obesity Levels Based On Eating Habits and Physical Condition  [Dataset]. (2019). UCI Machine Learning Repository. [https://doi.org/10.24432/C5H31Z]
+
 ## Project Overview
 The project explores the predictive capacity of lifestyle habits, physical conditions, and demographic factors on obesity classification. It is broken down into two main objectives:
 1. **Binary Classification:** Evaluating whether an individual falls into an 'Obese' category using a comprehensive feature set versus testing whether family history alone is sufficient.
